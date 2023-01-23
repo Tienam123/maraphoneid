@@ -1,0 +1,53 @@
+body {
+    background-color: #e5e5e5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper {
+    padding: 40px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+aside {
+
+    background-color: #E0EBFE;
+}
+
+.my-photo {
+    margin-top: 40px;
+}
+
+/* About me */
+.about-me {
+    padding: 20px 0 20px 90px;
+}
+
+.my-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+}
+
+.frond-end {
+    padding: 20px 0 0 90px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.about-me-text {
+    padding: 26px 104px 0 0px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
